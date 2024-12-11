@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background: url('img/background.jpg') center/cover no-repeat;
+    background: url('assets/background.jpg') center/cover no-repeat;
     height: 100vh;
     margin: 0;
     display: flex;
